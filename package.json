@@ -16,6 +16,6 @@
     "bootstrap": "^5.2.3",
     "ol": "latest",
     "ol-layerswitcher": "^4.1.1",
-    "serve": "^14.2.0"
+    "serve": "^14.2.1"
   }
 }
